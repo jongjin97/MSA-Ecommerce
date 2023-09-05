@@ -1,3 +1,21 @@
 [submodule "spring-cloud-user-service"]
 	path = spring-cloud-user-service
 	url = https://github.com/jongjin97/spring-cloud-user-service.git
+[submodule "spring-cloud-apigateway-service"]
+	path = spring-cloud-apigateway-service
+	url = https://github.com/jongjin97/spring-cloud-apigateway-service
+[submodule "spring-cloud-discovery-service"]
+	path = spring-cloud-discovery-service
+	url = https://github.com/jongjin97/spring-cloud-discovery-service
+[submodule "spring-cloud-catalog-service"]
+	path = spring-cloud-catalog-service
+	url = https://github.com/jongjin97/spring-cloud-catalog-service
+[submodule "spring-cloud-config-service"]
+	path = spring-cloud-config-service
+	url = https://github.com/jongjin97/spring-cloud-config-service
+[submodule "spring-cloud-order-service"]
+	path = spring-cloud-order-service
+	url = https://github.com/jongjin97/spring-cloud-order-service
+[submodule "spring-cloud-config"]
+	path = spring-cloud-config
+	url = https://github.com/jongjin97/spring-cloud-config
